@@ -76,9 +76,9 @@
     .toggleButton {
       display: flex;
     }
-    #close a {
+    /* #close a {
       display: none;
-    }
+    } */
 }
   
 @media only screen and (min-width: 630px) {
