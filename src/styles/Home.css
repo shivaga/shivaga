@@ -23,10 +23,14 @@
     color: #e9d35b;
     height: 50px;
   }
-  
+  .about div{
+    margin-bottom: 20px;
+
+  }
   .about .prompt {
     width: 40%;
     font-size: 30px;
+    margin-top: 20px;
   }
   .prompt svg {
     font-size: 60px;
@@ -56,7 +60,7 @@
     font-size: 20px;
   }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 660px) {
     .about h2 {
       font-size: 40px;
     }

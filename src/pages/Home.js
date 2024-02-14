@@ -23,7 +23,8 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> {displayText}</h2>
+        <div><h2> {displayText}</h2></div>
+        
         <div className="prompt">
           <p>A passionate software developer with a love for crafting innovative solutions to complex problems.</p>
           <LinkedInIcon />
